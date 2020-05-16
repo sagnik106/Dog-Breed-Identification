@@ -13,8 +13,8 @@ Resnet 152 v2- Pretrained on imagenet.<br/>
 (taken from tf.keras.applications.resnet_v2)
 
 # Model Performance
-![Accuracy](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/data_analysis.png)<br/>
-![Loss](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/data_analysis.png)
+![Accuracy](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/accuracy.png)<br/>
+![Loss](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/loss.png)
 
 ## Requirements
 * Pandas 1.0.2
