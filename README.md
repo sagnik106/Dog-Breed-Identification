@@ -8,11 +8,11 @@ The dataset is an imagenet subclass taken from [Kaggle](https://www.kaggle.com/c
 ## Dataset Analysis
 ![Content](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/data_analysis.png)
 
-# Model used
+## Model used
 Resnet 152 v2- Pretrained on imagenet.<br/>
 (taken from tf.keras.applications.resnet_v2)
 
-# Model Performance
+## Model Performance
 ![Accuracy](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/accuracy.png)<br/>
 ![Loss](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/resources/loss.png)
 
