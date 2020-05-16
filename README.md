@@ -23,3 +23,8 @@ Resnet 152 v2- Pretrained on imagenet.<br/>
 * Scikit-learn 0.22.2
 * Tensorflow 2.2
 * Tensor-dash 1.8.1
+
+## File Configuration
+* [trainer.ipynb](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/trainer.ipynb) - Jupyter notebook which has the analysis of dataset and the declaration and training of the model
+* [sieve.py](https://github.com/sagnik106/Dog-Breed-Identification/blob/master/sieve.py) - Organizes the dataset in the format accepted by the flow_from_directory method of Image DataGenerator method.
+* [resources/](https://github.com/sagnik106/Dog-Breed-Identification/tree/master/resources) - Github README resources
